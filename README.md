@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atenghamn
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java, HTML, CSS and Javascript
+- 🌱 I’m currently learning Java and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alex.tenghamn@gmail.com
 
