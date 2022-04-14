@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @atenghamn
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java and Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me alex.tenghamn@gmail.com
+## WELCOME
+---
 
-<!---
-atenghamn/atenghamn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Alexander Tenghamn, I'm a studiying to become a java developer. 
+
+---
+### DOING REGULARY
+- Spring Boot
+- React.js
+- Docker
+- SQL
+---
+### DOING FROM TIME TO TIME 
+- AWS 
+- Buildtools
+- React-Native.js
+---
+### WANNA DO MORE OF
+- VMs
+- Functional programing
+- Reactive programing
+---
