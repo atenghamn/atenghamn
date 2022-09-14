@@ -1,10 +1,14 @@
 ## WELCOME
 ---
 
-My name is Alexander Tenghamn, I'm a studiying to become a java developer. 
+My name is Alexander Tenghamn, Working as an backend developer(.NET) while doing my last year in school for an exam as a java developer. 
 
 ---
 ### DOING REGULARY
+- C#
+- .NET
+- gRPC
+- GraphQL
 - Spring Boot
 - React.js
 - Docker
@@ -16,7 +20,6 @@ My name is Alexander Tenghamn, I'm a studiying to become a java developer.
 - React-Native.js
 ---
 ### WANNA DO MORE OF
-- VMs
 - Functional programing
 - Reactive programing
 ---
