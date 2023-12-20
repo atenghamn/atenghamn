@@ -1,7 +1,7 @@
 ## WELCOME
 ---
 
-My name is Alexander Tenghamn, Working as an backend developer(.NET) while doing my last year in school for an exam as a java developer. 
+My name is Alexander Tenghamn, Working as an backend developer(mainly C#). 
 
 ---
 ### DOING REGULARY
