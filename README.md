@@ -19,9 +19,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **.Net, React, Spring Boot, MSSQL**
+- 🔭 I’m currently working on **.Net, Next.js MSSQL**
 
-- 🌱 I’m currently learning **to use all the new C# 12 stuff .**
+- 🌱 I’m currently learning **to use the vercel ecosystem .**
 
 - 📫 Feel free to reach me out **alex.tenghamn@gmail.com**
 
