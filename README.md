@@ -19,9 +19,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **.Net, Next.js MSSQL**
+- 🔭 I’m currently working on **a loggin service for reptile owners**
 
-- 🌱 I’m currently learning **to use the vercel ecosystem .**
+- 🌱 I’m currently learning **to use the vercel ecosystem**.
 
 - 📫 Feel free to reach me out **alex.tenghamn@gmail.com**
 
