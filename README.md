@@ -13,7 +13,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **a loggin service for reptile owners**
 
-- 🌱 I’m currently learning **to use the vercel ecosystem**.
+- 🌱 I’m currently learning **Blazor** and **clean architecture**.
 
 - 📫 Feel free to reach me out **alex.tenghamn@gmail.com**
 
