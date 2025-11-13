@@ -21,34 +21,12 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atenghamn&theme=dark&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=atenghamn&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-
-
-
 </p>        
 <!--- stats (end) -->
 
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,nextjs,git,azure,docker,react,rabbitmq,prisma,postman,postgres,nodejs,linux,js,jest,vite,vitest,java,spring,graphql,gitlab,html,css,materialui,tailwind,windows,rider,vscode&perline=14" />
-  </a>
-</p>
 
 
 <!-- Connect with me -->
@@ -76,6 +54,3 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 15/2/2025
